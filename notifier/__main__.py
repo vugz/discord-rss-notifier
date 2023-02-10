@@ -1,3 +1,6 @@
+# Author: vugz @ GitHub
+# Python 3.10.6
+
 from dotenv import load_dotenv
 import asyncio
 import os

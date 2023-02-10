@@ -1,3 +1,6 @@
+# Author: vugz @ GitHub
+# Python 3.10.6
+
 from __future__ import annotations
 from typing import TYPE_CHECKING
 
