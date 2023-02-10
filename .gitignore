@@ -1,0 +1,5 @@
+.env
+notifier/__pycache__/
+.vscode/
+venv/
+resources/
