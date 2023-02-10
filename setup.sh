@@ -40,4 +40,4 @@ else
     echo "A venv directory is already detected, skipping packages installation"
 fi
     
-echo -e "\nAll done\nPlease finish the configuration by providing placing $(pwd) in the __main__.py file and placing the env variables in .env"
+echo -e "\nAll done\nPlease finish the configuration by placing "$(pwd)" in the __main__.py file and placing the env variables in .env"

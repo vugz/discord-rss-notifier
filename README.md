@@ -11,7 +11,7 @@ After that just place your webhook and feed urls in the `.env` file and set the 
 
 To have your own RSS feeds you will simply need to place your Subscriber instances with a Parser for their respective RSS feeds in the `entry` function on `__main__.py`, two examples are already provided, one of them is for the MMO Sandbox Albion Online (see https://forum.albiononline.com/index.php/Thread/31615-RSS-Feed/)
 
-## Configuration
+## Usage 
 Ideally the script should be run every hour or minute, depending on the activity of the resources you're trying to get notified on.
 An example of configuration is to have this on a server running every minute with **Vixie Cron** by setting the following in your crontab: 
 
