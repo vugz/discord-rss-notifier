@@ -3,7 +3,7 @@
 # Discord RSS Notifier
 
 This is a simple program I wrote to get notifications for RSS feeds updates on Discord.
-It requires sqlite3 installed on the machine.
+It was tested in Python 3.10 and also requires sqlite3 installed on the machine.
 
 ## Configuration 
 To get it ready just run `./setup.sh` on the root directory of the repository.
