@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # Discord RSS Notifier
 
 This is a simple program I wrote to get notifications for RSS feeds updates on Discord.
